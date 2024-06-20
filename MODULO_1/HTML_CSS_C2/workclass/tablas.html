@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1>Las tablas en HTML</h1>
+  <h2>Estructura basica</h2>
+  <ul>
+    <li>table: Define o da inicio a la estrctura de la tabla</li>
+    <li>tr: Define las filas que conforman la estrctura de la tabla</li>
+    <li>td: Define las celdas par la información, nos arman las columnas de la tabla</li>
+  </ul>
+  <!-- Etiqueta principal para contener la tabla -->
+  <table border="1">
+    <!-- table row o la definicion de fila dentro de la tabla -->
+    <tr>
+      <!-- table data el contenido de las celdas de la tabla -->
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>6</td>
+      <td>7</td>
+      <td>
+        <img src="./deadpool.jpg" width="50px" height="60px" alt="">
+        <p>algo de texto</p>
+        <h1>este titulo</h1>
+        <table border="1">
+          <tr>
+            <td>elemento otra tabal</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <h1>Elementos semanticos dentro de tablas</h1>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Nacionalidad</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Juan</td>
+        <td>Perez</td>
+        <td>Colombiano</td>
+      </tr>
+      <tr>
+        <td>Rodrigo</td>
+        <td>saenz</td>
+        <td>Argentino</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table border="1">
+    <tbody>
+      <tr>
+        <th>Nombre</th>
+        <td>Juan</td>
+        <td>Rodrigo</td>
+      </tr>
+      <tr>
+        <th>Apellido</th>
+        <td>Perez</td>
+        <td>saenz</td>
+      </tr>
+      <tr>
+        <th>Nacionalidad</th>
+        <td>Colombiano</td>
+        <td>Argentino</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <table border="1">
+    <caption>Tabla con uso de combinacion de celdas en la misma fila colspan</caption>
+    <thead>
+      <tr>
+        <th colspan="2">Nombre/Apellido</th>
+        <th>Nacionalidad</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Juan</td>
+        <td>Perez</td>
+        <td>Colombiano</td>
+      </tr>
+      <tr>
+        <td>Rodrigo</td>
+        <td>saenz</td>
+        <td>Argentino</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <table border="1">
+    <caption>Tabla con uso de combinacion de celdas en diferentes filas rowspan</caption>
+    <tbody>
+      <tr>
+        <th rowspan="2">
+          Nombre <br>
+          Apellido
+        </th>
+        <td>Juan</td>
+        <td>Rodrigo</td>
+      </tr>
+      <tr>
+        <td>Perez</td>
+        <td>saenz</td>
+      </tr>
+      <tr>
+        <th>Nacionalidad</th>
+        <td>Colombiano</td>
+        <td>Argentino</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>

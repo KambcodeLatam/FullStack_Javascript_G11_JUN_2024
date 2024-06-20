@@ -27,3 +27,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ## Modulo 1
 
 - 17/06/2024 Vscode-Intro HTML-Elmentos basicos https://youtu.be/Vx3D6-p4J7k
+- 19/06/2024 Estructura elementos html, tablas https://youtu.be/6rv-0GO9rnw
