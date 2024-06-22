@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1>Formularios</h1>
+  <!-- Etiqueta principal para el trabajo con formularios -->
+  <form action="https://google.com" target="_blank" method="get">
+    <!-- Los inputs o controles interactivos para captura de datos -->
+    <!-- Genera una linea para captura de texto -->
+    <label for="linea1">Nombre de la persona:</label>
+    <input type="text" name="nombre_persona" readonly value="Andres" id="linea1"> <br>
+    <input type="text" name="apellido_persona" id="linea2" placeholder="Ingrese el apellido de la persona"> <br>
+    <!-- Radio button, que permiten selecciona una unica opción de un grupo de valores -->
+    <p>Seleccione su navegador favorito:</p>
+    <label for="radio1">Firefox</label>
+    <input type="radio" name="navegador" checked value="Firefox" id="radio1"><br>
+    <label for="radio2">Chrome</label>
+    <input type="radio" name="navegador" value="Chrome" id="radio2"><br>
+    <label for="radio3">Brave</label>
+    <input type="radio" name="navegador" value="Brave" id="radio3"><br>
+    <p>Marque las marcas de carro que ha tenido:</p>
+    <!-- Checkbox, permite seleccionar y deseleccionar uno o varios elementos de una lista -->
+    <label for="checkbox1">BMW</label>
+    <input type="checkbox" name="autos" checked value="BMW" id="checkbox1"> <br>
+    <label for="checkbox2">Mercedez</label>
+    <input type="checkbox" name="autos" value="Mercedez" id="checkbox2"> <br>
+    <label for="checkbox3">Toyota</label>
+    <input type="checkbox" name="autos" value="Toyota" id="checkbox3"> <br>
+    <p>Marque las tareas realizadas:</p>
+    <!-- Checkbox, permite seleccionar y deseleccionar uno o varios elementos de una lista -->
+    <label for="checkbox4">Bañarme</label>
+    <input type="checkbox" name="tareas" value="Bañarme" id="checkbox4"> <br>
+    <label for="checkbox5">Desayunar</label>
+    <input type="checkbox" name="tareas" value="Desayunar" id="checkbox5"> <br>
+    <label for="checkbox6">Almorzar</label>
+    <input type="checkbox" name="tareas" value="Almorzar" id="checkbox6"> <br>
+    <!-- Accion de envío de los formularios -->
+    <input type="submit" value="Enviar">
+    <!-- Accion de boton para transicion o envio de formularios -->
+    <input type="button" onclick="alert('HOla mundo')" value="Enviar 2">
+  </form>
+  <h1>Otros elementos de formularios</h1>
+  <form id="form_external_elem" action="https://google.com" method="get" target="_blank">
+    <label for="select1">Seleccione su edad</label>
+    <select name="select1" id="select1">
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      <option value="13">13</option>
+      <option value="14">14</option>
+      <option value="15">15</option>
+    </select> <br>
+    <label for="textarea1">Ingrese su comentarios </label>
+    <textarea name="textarea1" id="textarea1"></textarea>
+    <br><br>
+    <fieldset>
+      <legend>Datos de nacimientos</legend>
+      <label for="fecha_naci">Fecha de nacimiento</label>
+      <input type="date" name="fecha_naci" id="fecha_naci"> <br>
+      <label for="ciudad_naci">Ciudad de nacimiento</label>
+      <input type="text" name="ciudad_naci" id="ciudad_naci" maxlength="3">
+    </fieldset>
+    <br><br>
+    <label for="intentos_passs">Numero de errores contraseña</label>
+    <input type="number" name="intentos_passs" id="intentos_passs" min="3" max="15">
+    <input type="submit" value="Enviar formulario">
+  </form>
+  <br><br><br><br><br><br><br><br><br><br>
+
+  <input type="email" required name="email_persona" id="email_persona" placeholder="Tu email" form="form_external_elem">
+</body>
+
+</html>
