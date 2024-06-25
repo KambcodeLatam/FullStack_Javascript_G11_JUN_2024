@@ -1,0 +1,96 @@
+h1 {
+  font-size: 13px;
+  color: green;
+}
+/* 
+  Sintaxis de las reglas css
+  h1 { font-size: 13px; color: green; }
+  h1 -> Selector
+  {...} ->Bloque de declaraciones
+  font-size: 13px; -> Declaración
+  font-size -> Propiedad
+  13px -> valor
+*/
+
+/* Tipos de selectores */
+/* Selector global (*) */
+* {
+  box-sizing: border-box;
+}
+/* Selector de elemento */
+p {
+  font-weight: 900;
+}
+/* Selectores de id (#) */
+#parrafo_verde {
+  color: green;
+}
+/* Selector de clase (.) */
+.centrado {
+  text-align: center;
+}
+.italico {
+  font-style: italic;
+}
+
+/* COMBINACION DE SELECTORES */
+h1.centrado {
+  font-size: 30px;
+}
+
+/* Selector de descendiente */
+div p {
+  color: blue;
+}
+
+/* Selector de hijos */
+div.padre_directo > p {
+  color: green;
+}
+
+/* Selecto de hermano adyacente */
+div.padre_directo + p {
+  color: orange;
+}
+
+/* Selector de hermanos general */
+div.padre_directo ~ p {
+  font-weight: 100;
+}
+
+/* Estilos basicos */
+.estilos_basicos {
+  /* Ancho */
+  width: 300px;
+  /* Alto */
+  height: 300px;
+  /* Color de fondo */
+  background-color: gray;
+  /* color de fuente */
+  color: red;
+  /* Propiededes de fuente */
+  font-size: 18px;
+  font-weight: 600;
+  font-style: oblique;
+  /* bordes */
+  border: 5px solid black;
+  border-radius: 20px;
+}
+
+h1 {
+  color: red;
+}
+
+/* Enfoque modular BEM (BLOCK-ELEMENT-MODIFIER) */
+.block {
+  /* DEclaraciones .. */
+}
+
+.block__element {
+  /* DEclaraciones .. */
+}
+
+.block--modifier {
+  /* DEclaraciones .. */
+}
+

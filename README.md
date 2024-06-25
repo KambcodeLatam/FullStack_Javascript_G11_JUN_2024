@@ -29,3 +29,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 17/06/2024 Vscode-Intro HTML-Elmentos basicos https://youtu.be/Vx3D6-p4J7k
 - 19/06/2024 Estructura elementos html, tablas https://youtu.be/6rv-0GO9rnw
 - 21/06/2024 Repaso tablas y formularios https://youtu.be/1uiPqhtVETo
+- 24/06/2024 Introducción css https://youtu.be/--zog5w5Z2s
