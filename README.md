@@ -30,3 +30,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 19/06/2024 Estructura elementos html, tablas https://youtu.be/6rv-0GO9rnw
 - 21/06/2024 Repaso tablas y formularios https://youtu.be/1uiPqhtVETo
 - 24/06/2024 Introducción css https://youtu.be/--zog5w5Z2s
+- 26/06/2024 Respaso selectores, modelo de cada, background-image https://youtu.be/fT1vgiH6lxs

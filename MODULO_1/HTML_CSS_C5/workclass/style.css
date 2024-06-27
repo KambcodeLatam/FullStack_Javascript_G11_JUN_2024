@@ -1,0 +1,54 @@
+/* Selector de elemento (body, form, input, button, table, tr, td, th, img, span, div) */
+body {
+  background-color: gray;
+}
+/* Selector universal */
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* Selector de id */
+#atributoid {
+  color: green;
+}
+
+/* Selector de clase */
+.atributoclass {
+  font-style: italic;
+}
+
+.color_cyan {
+  color: cyan;
+}
+
+h1, p {
+  text-align: center;
+}
+/* Pseudo-elementos */
+p::before {
+  content: "Inicio del parrafo:";
+  font-weight: bold;
+}
+p::after {
+  content: "FIn de mi parrafo";
+  font-weight: bold;
+}
+
+p::first-line {
+  color: black;
+}
+
+/* Pseudo-clases */
+h2:first-child {
+  color: yellow;
+}
+
+h2:last-child {
+  color: blue;
+}
+button {
+  background-color: gray;
+}
+button:hover {
+  background-color: red;
+}

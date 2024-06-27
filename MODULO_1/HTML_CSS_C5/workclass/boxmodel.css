@@ -1,0 +1,57 @@
+/* 
+  Box model
+    *Margin: Separacion entre el borde de un elemento y los demas
+    *Border: Limita o agrupa el padding y el contenido de un elemento
+    *Padding: Separacion del contenido con el borde del elemento
+    *Content: Lo que tendo dentro de mi elemento
+ */
+* {
+  box-sizing: border-box;
+}
+
+.box-model {
+  /* margin: 10px; */
+  /* margin: 10px 20px; */
+  /* margin: 5px 10px 15px 20px; */
+  margin-top: 5px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  margin-left: 20px;
+
+  /* border: 2px solid red; */
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+  border-left: 5px dotted blue;
+
+  /* padding: 5px; */
+  /* padding: 5px 10px; */
+  /* padding: 5px 10px 15px 20px; */
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+
+  width: 500px;
+  height: 30px;
+
+  background-color: gray;
+}
+
+.back-image {
+  background-image: url(./img_girl.jpg);
+  /* background-repeat: no-repeat; */
+  background-repeat:repeat-y;
+  width: 700px;
+  height: 800px;
+  border: 1px solid red;
+}
+
+.back-image-large {
+  background-image: url(./paris.jpg);
+  /* background-position: center center; */
+  background-size: cover;
+  width: 700px;
+  height: 800px;
+  border: 1px solid red;
+}
