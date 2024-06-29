@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+.box-model {
+  /* La capa mas externa Margin, separa elementos entre los bordes */
+  margin: 50px;
+  /* la capa siguiente Border, nos limita o agrupa el paddin y el contenido */
+  border: 10px solid black;
+  /* La capa siguietne Padding, separacion de mi contenido con mi borde */
+  padding: 15px;
+  /* La capa siguiente Content, contiene todo el contenido del elemento */
+  width: 550px;
+  height: 550px;
+  border-left: 2px solid red;
+  
+}
+
+span {
+  font-style: italic;
+  color: red;
+  /* Por defecto el span es un elemento en linea, no permite usar width ni heigth */
+  /* display: inline; */
+  /* Puedo cambiar el display a block, genera saltos de linea y habilita width y heigth */
+  /* display: block; */
+  /* Existe un punto intermedio que es inline-block, mantiene la visualización en linea y habilita el width y el heigth */
+  display: inline-block;
+  width: 145px;
+}
+
+.contenedor1 {
+  border: 1px solid red;
+}
+
+.contenedor1 img {
+  /* Valor por defecto de position */
+  /* position: static; */
+  /* Poscionamiento relativo, relativo a su posicion en el flujo natural */
+  position: relative;
+  /* Habilita el uso de top, left, right, bottom */
+  top: 90px;
+  left: 115px;
+  
+}
+
+.contenedor2 {
+  border: 1px solid red;
+  position: relative;
+}
+
+.contenedor2 img {
+  position: absolute;
+  top: 25px;
+  left: 115px;
+}
+
+.Fixed {
+  position: fixed;
+}
+
+.Sticky {
+  position: sticky;
+  top: 0;
+  height: 50px;
+  background-color: gray;
+}
