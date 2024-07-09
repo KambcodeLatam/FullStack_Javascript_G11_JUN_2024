@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.header, .footer {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+.container {
+  display: flex;
+  flex: 1;
+}
+
+.sidebar {
+  background-color: lightgray;
+  padding: 1em;
+  width: 220px;
+}
+
+.main-content {
+  flex: 1;
+  padding: 1em;
+}

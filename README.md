@@ -34,3 +34,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 28/06/2024 Repaso box-model, Repaso display, posicionamiento de elementos y flujo natural HTML https://youtu.be/WoimMAZiqMU
 - 03/07/2024 Diseño adpatativo, Diseño responsive, introduccion flex https://youtu.be/K7s8LFNeuMI
 - 05/07/2024 Propiedades del padre flex, propiedades de los hijos flex https://youtu.be/u5UL3pMhgTU
+- 08/07/2024 Repaso y dudas de flex, maquetación https://youtu.be/ojDfZnNJny4

@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.header, .footer {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+.main-content{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em; 
+}
+
+.content {
+  max-width: 600px;
+  text-align: center;
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+}
