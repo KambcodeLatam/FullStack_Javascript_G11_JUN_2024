@@ -1,0 +1,39 @@
+.custom_scroll {
+  background-color: gray;
+  height: 400px;
+  width: 50%;
+  overflow-y: scroll;
+  /* overflow-x: scroll; */
+  /* scrollbar-width: thin; */
+  /* scrollbar-color: rebeccapurple green; */
+}
+
+.item {
+  background-color: lightblue;
+  height: 100px;
+  /* width: 500px; */
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.custom_scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.custom_scroll::-webkit-scrollbar-thumb {
+  background: yellow;
+  border-radius: 6px;
+}
+
+.custom_scroll::-webkit-scrollbar-thumb:hover {
+  background: green;
+}
+
+.custom_scroll::-webkit-scrollbar-track {
+  background: orange;
+  border-radius: 6px;
+}
+
+.custom_scroll::-webkit-scrollbar-corner {
+  background: red;
+}

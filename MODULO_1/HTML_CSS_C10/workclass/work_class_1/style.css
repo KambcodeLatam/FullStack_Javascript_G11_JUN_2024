@@ -1,0 +1,172 @@
+/* LAYOUT CON PORCETNAJES INICIALES */
+header,
+.page,
+footer{
+  background-color: grey;
+  min-height: 150px;
+}
+
+.menu {
+  min-height: 250px;
+  background-color: yellow;
+  width: 29%;
+  display: inline-block;
+}
+
+.content {
+  min-height: 250px;
+  background-color: green;
+  width: 70%;
+  display: inline-block;
+}
+
+/* LAYOUT CON PORCENTAJES DE COLUMNAS */
+.header,.page2,.footer {
+  background-color: gray;
+  min-height: 100px;
+}
+.menu2{
+  background-color: yellow;
+  display: inline-block;
+}
+.content2{
+  background-color: green;
+  display: inline-block;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* 
+@media -> la definicion o el inicio de la regla
+(<condicion>) -> que va ser lo que se evalua para aplicar lo que escribamos dentro
+*/
+[class*="col-"] {
+  width: 100%;
+}
+/* Opcion legacy */
+/* @media only screen and (min-width: 768px){ */
+@media only screen and (width >= 768px){
+  .col-1{
+    width: 8.33%;
+  }
+  .col-2{
+    width: 16.66%;
+  }
+  .col-3{
+    width: 25%;
+  }
+  .col-4{
+    width: 33.33%;
+  }
+  .col-5{
+    width: 41.66%;
+  }
+  .col-6{
+    width: 50%;
+  }
+  .col-7{
+    width: 58..33%;
+  }
+  .col-8{
+    width: 66.66%;
+  }
+  .col-9{
+    width: 75%;
+  }
+  .col-10{
+    width: 83.33%;
+  }
+  .col-11{
+    width: 91.66%;
+  }
+  .col-12{
+    width: 100%;
+  }
+}
+
+/* MODIFICAR COLORES */
+.container {
+  color: red;
+  border: 1px solid black;
+  width: 80%;
+}
+
+@media only screen and (551px <= width <= 700px) {
+  .container {
+    color: green;
+    width: 60%;
+  }
+}
+
+@media only screen and (width >= 751px) {
+  .container {
+    color: blue;
+  }
+  img {
+    display: none;
+  }
+}
+
+@media print {
+  .container {
+    color: yellow;
+    font-size: 70px;
+  }
+}
+
+/* BREAKPOINTS STANDARD */
+.descripcion{
+  min-height: 200px;
+  background-color: black;
+  color: white;
+}
+
+.xs {
+  display: block;
+}
+.s, .m, .l, .xl{
+  display: none;
+}
+
+@media only screen and (width >= 600px){
+  .s {
+    display: block;
+  }
+  .xs, .m, .l, .xl{
+    display: none;
+  }
+    
+}
+
+@media only screen and (width >= 768px){
+  .m {
+    display: block;
+  }
+  .xs, .s, .l, .xl{
+    display: none;
+  }
+    
+}
+
+@media only screen and (width >= 992px){
+  .l {
+    display: block;
+  }
+  .xs, .s, .m, .xl{
+    display: none;
+  }
+    
+}
+
+@media only screen and (width >= 992px){
+  .xl {
+    display: block;
+  }
+  .xs, .s, .m, .l{
+    display: none;
+  }
+    
+}
+
+

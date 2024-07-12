@@ -1,0 +1,97 @@
+/* 
+  Media queries 
+  @media media-type and (media-feature) {
+    Reglas de CSS 
+  }
+  Media-type: 
+    - screen: para las pantallas
+    - print: Area de ipresion
+    - speech: accesibilidad de lectura
+    - all: aplica a todos
+  Media-feature:
+    - max-width: ancho de la pantalla
+    - min-width: ancho de la pantalla
+    - max-height: alto de la pantalla
+    - min-height: alto de la pantalla
+    - orientation
+      - portrait: vertical
+      - landscape: horizontal
+    - resolution
+      - min-resolution : dpi
+*/
+/* First mobile */
+body {
+  background-color: blue;
+}
+
+.container {
+  background-color: red;
+
+}
+
+h1 {
+  color: yellow;
+}
+
+@media screen and (min-width: 500px){
+  body {
+    background-color: yellow;
+  }
+  
+  .container {
+    background-color: blue;
+  
+  }
+  
+  h1 {
+    color: red;
+  }
+
+  h3 {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 700px){
+  body {
+    background-color: red;
+  }
+  
+  .container {
+    background-color: yellow;
+  
+  }
+  
+  h1 {
+    color: blue;
+  }
+
+  h3 {
+    display: block;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  p {
+    color: orange;
+  }
+}
+
+@media screen and (orientation: landscape) {
+  p {
+    color: purple;
+  }
+}
+
+/* 
+  Breakpoints mas usados 
+  -Dispositivos pequeños:
+    * max-width: 480px
+    * max-width: 600px
+  -Dispositivos medianos:
+    * min-width: 601px y max-width: 768px
+    * min-width: 769px y max-width: 1024px
+  -Dispositivos Grandes:
+    * min-width: 1025px y max-width: 1200px
+    * min-width: 1201px
+*/
