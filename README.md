@@ -36,3 +36,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 05/07/2024 Propiedades del padre flex, propiedades de los hijos flex https://youtu.be/u5UL3pMhgTU
 - 08/07/2024 Repaso y dudas de flex, maquetación https://youtu.be/ojDfZnNJny4
 - 11/07/2024 Pseudo elementos (scroll-bar), Media queries https://youtu.be/9BzFMx75MuI
+- 12/07/2024 Introducción GRID https://youtu.be/xUO8HuFRPuI

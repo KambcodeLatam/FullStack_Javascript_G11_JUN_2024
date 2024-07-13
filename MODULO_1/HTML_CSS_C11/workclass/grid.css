@@ -1,0 +1,129 @@
+.grid-container {
+  /* HABILITADOR DE GRID */
+  /* grid -> se comporta como bloque (block) */
+  display: grid;
+  /* inline-grid -> el compartmiento en line (inline) */
+  /* display: inline-grid; */
+
+  /* Define el templat de columnas que quiero tener en mi diseño */
+  /* grid-template-columns: 150px 150px 150px ; */
+  /* grid-template-columns: auto auto auto ; */
+  grid-template-columns: repeat(3, 150px);
+
+  background-color: gray;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.grid-container-2 {
+  display: grid;
+  grid-template-columns: repeat(3, 150px) auto;
+
+  background-color: gray;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.gap {
+  /* Defino la separación entre columnas y/o filas del template */
+  /* column-gap: 20px;
+  row-gap: 20px; */
+  /* gap: 10px 20px; */
+  gap: 20px;
+}
+
+.grid-item {
+
+  background-color: blue;
+  padding: 15px;
+  text-align: center;
+  border: 1px solid red;
+}
+
+.item1 {
+  /* Definicion de linea de inicio y de fin con la que posiciono en las columnas un elemento */
+  /* grid-column-start: 1;
+  grid-column-end: 5; */
+  /* shorthand para posicionar con column lines */
+  /* grid-column: 1 / 5; */
+  grid-column: 1 / span 4;
+
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.item8 {
+  grid-column-start: 3;
+  grid-column-end: 5;
+}
+
+.item2 {
+  /* Definicion de linea de inicio y de fin con la que posiciono en las filas un elemento */
+  /* grid-row-start: 1;
+  grid-row-end: 3; */
+  /* shorthand para posicionar con row lines */
+  /* grid-row: 1 / 3; */
+  grid-row: 1 / span 2;
+}
+
+.itemrc {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+.grid-container-rc {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr) 2fr;
+  grid-template-rows: 200px 100px 150px;
+
+  /* grid-gap: 20px; */
+
+}
+
+.iteml {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.grid-container-jc {
+  display: grid;
+  grid-template-columns: repeat(3, 150px);
+  gap: 10px; 
+  padding: 15px;
+  /* Aplica sobre el eje horizontal */
+  justify-content: center;
+
+  background-color: gray;
+}
+
+.grid-container-ac {
+  display: grid;
+  grid-template-columns: repeat(3, 150px);
+  gap: 10px; 
+  padding: 15px;
+  /* Aplica sobre el eje vertical */
+  align-content: center;
+  /* justify-content: center; */
+  
+  height: 500px;
+  background-color: gray;
+}
+
+.grid-container-ar {
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  gap: 10px;
+
+  padding: 15px;
+  background-color: gray;
+}
+
+.pos-grid-area {
+  /* shorthan que recibe row-start / column-start / row-end / column-end */
+  grid-area: 1 / 2 / span 4 / span 4;
+}
