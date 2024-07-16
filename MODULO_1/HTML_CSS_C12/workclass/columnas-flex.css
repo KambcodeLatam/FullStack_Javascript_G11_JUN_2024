@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: yellow;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 1;
+  padding: 5px;
+  height: 300px;
+
+  background-color: lightgray;
+  border: 1px solid black;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}

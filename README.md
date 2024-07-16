@@ -37,3 +37,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 08/07/2024 Repaso y dudas de flex, maquetación https://youtu.be/ojDfZnNJny4
 - 11/07/2024 Pseudo elementos (scroll-bar), Media queries https://youtu.be/9BzFMx75MuI
 - 12/07/2024 Introducción GRID https://youtu.be/xUO8HuFRPuI
+- 15/07/2024 Cierre GRID, comparación layouts https://youtu.be/0nxgZazUgdg

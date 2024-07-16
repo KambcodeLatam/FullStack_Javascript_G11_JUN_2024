@@ -1,0 +1,30 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 60px 60px;
+  grid-template-rows: 60px 60px;
+
+  /* Permite definir el tamaño de las filas autogeneradas */
+  grid-auto-rows: 60px;
+
+  /* Permite definir el tamaño de las columnas autogeneradas */
+  grid-auto-columns: 60px;
+
+  /* Permite controlar como se colocan los elementos de forma automatica en el grid */
+  /* grid-auto-flow: column; */
+  grid-auto-flow: dense;
+
+  background-color: gray;
+  padding: 10px;
+}
+
+.item {
+
+  background-color: lightgray;
+  font-size: 30px;
+  text-align: center;
+  padding: 5px;
+}
+
+.pos1 {
+  grid-column: 3 / span 3;
+}

@@ -1,0 +1,95 @@
+.grid-container {
+  display: grid;
+  grid-template-areas: 
+    'header header'
+    'side nav'
+    'side artic'
+    'side artic2'
+    'side .',
+    'footer footer';
+}
+
+.header {
+  grid-area: header;
+
+  background-color: yellow;
+  color: white;
+  font-size: 60px;
+  padding: 20px;
+  text-align: center;
+}
+
+.side{
+  grid-area: side;
+
+  background-color: orange;
+  color: white;
+  font-size: 60px;
+  padding: 20px;
+  text-align: center;
+}
+
+.nav {
+  grid-area: nav;
+
+  background-color: lightblue;
+  color: white;
+  font-size: 60px;
+  padding: 20px;
+  text-align: center;
+}
+
+.artic {
+  grid-area: artic;
+
+  background-color: lightgray;
+  color: white;
+  font-size: 60px;
+  padding: 20px;
+  text-align: center;
+}
+
+.artic2 {
+  grid-area: artic2;
+
+  background-color: lightgray;
+  color: white;
+  font-size: 60px;
+  padding: 20px;
+  text-align: center;
+}
+
+.artic3 {
+  /* grid-area: artic3; */
+
+  background-color: lightgray;
+  color: white;
+  font-size: 60px;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer {
+  grid-area: footer;
+
+  background-color: black;
+  color: white;
+  font-size: 60px;
+  padding: 20px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+  .grid-container {
+    grid-template-areas: 
+      'header'
+      'nav'
+      'artic'
+      'artic2'
+      'artic3'
+      'footer';
+  }
+  .side {
+    display: none;
+  }
+}
