@@ -1,7 +1,7 @@
 ### Dias de clases
 Lunes, Miercoles y Viernes (7p.m - 9p.m)
 
-## Dias de Tutorias
+### Dias de Tutorias
 Tutorias son Opcionales (8p.m - 9p.m)
 Martes, Jueves
 
