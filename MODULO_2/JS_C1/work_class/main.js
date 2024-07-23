@@ -56,4 +56,4 @@ var nombreUsuario = prompt("Esta es una alerta. Porfavor escriba su nombre") // 
 document.write("<br> Hola, bienvenido a la pagina, su nombre es: ", nombreUsuario);
 
 
-var altura = prompt("Porfavor digita tu altura en Cm")
+var altura = prompt("Por favor digita tu altura en Cm")
