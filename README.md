@@ -38,3 +38,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 11/07/2024 Pseudo elementos (scroll-bar), Media queries https://youtu.be/9BzFMx75MuI
 - 12/07/2024 Introducción GRID https://youtu.be/xUO8HuFRPuI
 - 15/07/2024 Cierre GRID, comparación layouts https://youtu.be/0nxgZazUgdg
+
+## Modulo 2
+
+- C1. 22/07/2024 Introducción Variables y Tipos de Datos: https://youtu.be/8RwK1IvsqW0
