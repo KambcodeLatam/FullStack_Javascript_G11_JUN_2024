@@ -42,3 +42,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ## Modulo 2
 
 - C1. 22/07/2024 Introducción Variables y Tipos de Datos: https://youtu.be/8RwK1IvsqW0
+- C2. 24/07/2024 Condicionales (if-else): https://youtu.be/b0fUqDo29pE
