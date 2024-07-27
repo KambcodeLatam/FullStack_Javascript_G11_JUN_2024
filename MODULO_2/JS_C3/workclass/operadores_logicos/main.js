@@ -19,3 +19,9 @@ if(paisDeOrigen === "colombia" || (edad > 5 && edad < 10)){
 } else {
     document.write("El valor de tu entrada es: $10.000")
 }
+
+
+const suscripcion = false;
+if(suscripcion){
+    document.write("esto es un true");
+}
