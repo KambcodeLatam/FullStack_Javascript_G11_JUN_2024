@@ -50,10 +50,27 @@ document.write("colombia" === "Colombia", "Este es el ejemplo de colombia") // f
 // RETO 2: Escribe un programa que pida a el usuario ingresar un numero y luego determine
 // si es positivo o negativo
 
-var number = Number(prompt("Digita un numero")); // 17
-if(number >= 0){
-    document.write("<br>Tu numero es positivo");
-} else {
-    document.write("<br>Tu numero es negativo");
+// var number = Number(prompt("Digita un numero")); // 17
+// if(number >= 0){
+//     document.write("<br>Tu numero es positivo");
+// } else {
+//     document.write("<br>Tu numero es negativo");
+// }
+
+// --------------------------------------------------------------------
+// Escribir un programa que pida al usuario dos números y muestre por 
+// pantalla su división. Si el divisor es cero el programa debe mostrar 
+// un error, ejemplo "Error: el divisor no puede ser cero".
+
+var numerador = Number(prompt("Digite el Numerador"));
+var denominador = Number(prompt("Digite el Denominador"));
+var resultado;
+
+if(denominador === 0){
+    document.write("<br>El divisor no puede ser cero");
+} else{
+    resultado = numerador / denominador;
+    document.write(`<br>El resultado de dividir ${numerador} entre ${denominador}, es: ${resultado}`);
 }
+
 
