@@ -16,3 +16,5 @@
 const numero = Math.random() * 10
 const redondeado = Math.round(numero)
 console.log(redondeado)
+// ò
+console.log(Math.round(Math.random() * 10)) // Forma reducida
