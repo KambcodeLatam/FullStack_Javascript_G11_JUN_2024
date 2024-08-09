@@ -67,7 +67,7 @@
 
 function calcImc (peso, altura){
     const result = peso / (altura * altura) // 0.14
-    // return result // 0.14
+    return result // 0.14
 }
 
 const imc = calcImc(59, 20); // 0.14
@@ -78,3 +78,14 @@ if(imc > 10){
 } else {
     console.log("Su IMC esta bien");
 }
+
+// -------------------------------
+// nuestra funcion puede recibir como argumento string, numeros, boleanos e incluso Arrays
+function ejemplo (array){
+    console.log("Hola mundo")
+}
+ejemplo([1, 5, 2])
+
+
+
+

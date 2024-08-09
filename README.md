@@ -48,3 +48,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C5. 31/07/2024 Ciclos while y for https://youtu.be/JtpkSIqeT9E
 - C6. 02/08/2024 Var y let / Scope / Instalación de node JS: https://youtu.be/9YcjMzgENYI
 - C7. 06/08/2024 Array y Math: https://youtu.be/8Jeu3bsWTSM
+- C8. 08/08/2024 Funciones: https://youtu.be/ceWzjDKLGIg
