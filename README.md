@@ -49,3 +49,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C6. 02/08/2024 Var y let / Scope / Instalación de node JS: https://youtu.be/9YcjMzgENYI
 - C7. 06/08/2024 Array y Math: https://youtu.be/8Jeu3bsWTSM
 - C8. 08/08/2024 Funciones: https://youtu.be/ceWzjDKLGIg
+- C9. 12/08/2024 Objetos y Arrow Function: https://youtu.be/_yfZB8BjetQ
