@@ -50,3 +50,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C7. 06/08/2024 Array y Math: https://youtu.be/8Jeu3bsWTSM
 - C8. 08/08/2024 Funciones: https://youtu.be/ceWzjDKLGIg
 - C9. 12/08/2024 Objetos y Arrow Function: https://youtu.be/_yfZB8BjetQ
+- C10. 14/08/2024 Repaso: https://youtu.be/PmwNnBXEE80
