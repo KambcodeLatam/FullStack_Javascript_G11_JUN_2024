@@ -51,3 +51,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C8. 08/08/2024 Funciones: https://youtu.be/ceWzjDKLGIg
 - C9. 12/08/2024 Objetos y Arrow Function: https://youtu.be/_yfZB8BjetQ
 - C10. 14/08/2024 Repaso: https://youtu.be/PmwNnBXEE80
+
+# Modulo 3
+
+- C1. 27/08/2024 Introducción a git https://youtu.be/7d0lGok_wVw
