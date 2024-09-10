@@ -60,3 +60,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C4. 02/09/2024 Repaso del workshop del paso a paso de como subir tareas a github y algunos comandos de git como reset, revert, stash, log y reflog  https://youtu.be/pSthmc1n4Pw
 - C5. 04/09/2024 Markdown y comparadores en js https://youtu.be/c_FMP19ZSJE
 - C6. 05/09/2024 Coercion y operadores lógicos https://youtu.be/DRcRz4BmkFQ
+- C7. 09/09/2024 Arrays y objetos https://youtu.be/KeQzLFiVVqU
