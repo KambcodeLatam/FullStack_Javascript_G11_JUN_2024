@@ -110,3 +110,65 @@ personFreeze.objetoInterno.ab = 2;
 personFreeze.mascotas.pop();
 // personFreeze.mascotas = []; esto no me deja hacerlo porque cambio toda la referencia del array
 console.log(personFreeze);
+
+
+// Object.keys
+console.log(Object.keys(personFreeze));
+const keys = Object.keys(personFreeze);
+for (let i = 0; i < keys.length; i++) {
+    const key = keys[i];
+    console.log(key);
+}
+
+console.log('----------------------');
+
+// Object.values
+console.log(Object.values(personFreeze));
+const values = Object.values(personFreeze);
+for (let i = 0; i < values.length; i++) {
+    const value = values[i];
+    console.log(value);
+}
+
+console.log('----------------------');
+
+// Object.entries
+console.log(Object.entries(personFreeze));
+const entries = Object.entries(personFreeze);
+for (let i = 0; i < entries.length; i++) {
+    const entry = entries[i];
+    console.log(entry);
+}
+
+// For in
+for (const key in personFreeze) {
+    console.log(key)
+}
+
+
+// Valor vs referencia
+const num1 = 1;
+const num2 = 1;
+console.log(num1 === num2);
+
+const obj1 = { a: 1, b: true };
+const obj2 = { a: 1, b: true };
+console.log(obj1 === obj2);
+
+const obj3 = obj1; // Comparten la misma referencia en memoria: obj3 -> obj1 -> { a: 1, b: true }
+console.log(obj3 === obj1);
+console.log(obj3 === obj2); // false porque no estan relacionados
+
+obj3.a = 45;
+console.log(obj3);
+console.log(obj1);
+console.log(obj2);
+
+// Como evito que se modifiquen valores en varios objetos que comparten referencia en memoria
+const obj4 = Object.create(obj1);
+//const obj4 = {...obj1};
+console.log(obj4.a);
+console.log(obj4.b);
+obj4.a = 78;
+console.log(obj4);
+console.log(obj1);

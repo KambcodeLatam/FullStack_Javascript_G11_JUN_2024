@@ -149,6 +149,7 @@ console.log(arr1);
 console.log(arr1 === arr2);
 
 const arr3 = arr1; // arr3 -> arr1 -> [7,9,8]
+//const arr3 = [...arr1];
 console.log('son iguales? ', arr3 === arr1);
 arr3[0] = 2;
 console.log(arr1);
