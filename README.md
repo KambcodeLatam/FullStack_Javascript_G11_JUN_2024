@@ -62,3 +62,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C6. 05/09/2024 Coercion y operadores lógicos https://youtu.be/DRcRz4BmkFQ
 - C7. 09/09/2024 Arrays y objetos https://youtu.be/KeQzLFiVVqU
 - C8. 12/09/2024 ES6 arrays y scope https://youtu.be/hY8yguZoOMQ
+- C9. 13/09/2024 Funciones y callbacks https://youtu.be/pNq8GMQ4I3c

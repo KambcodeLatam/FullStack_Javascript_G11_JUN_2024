@@ -108,10 +108,10 @@ if (true) {
 
 let fruta = 'Fresa';
 var fruta2 = 'Mora';
-var fruta2 = 'Limon';
 
 if (true) { // ---------------
     let fruta = 'Mango';
+    var fruta2 = 'Limon';
     console.log(fruta); // Mango
     console.log(fruta2); // Limon
 }
@@ -125,12 +125,12 @@ var estudianteY = 'Gabriel';
 function doSomething() { // ------------------------ es como si hubiera un muro
     var estudiante = 'Felipe';
     let estudiante2 = 'Camilo';
-    var estudiante3 = 'Alejandro';
     
     if (true) {
         if (true) {
             if (true) {
                 if (true) {
+                    var estudiante3 = 'Alejandro';
                     let estudianteX = 'William';
                 }
             }

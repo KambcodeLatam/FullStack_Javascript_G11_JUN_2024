@@ -2,6 +2,7 @@
 const numbers = [1,2,3,4,5,6,7,8];
 
 // map: Crea un nuevo array con los resultados de llamar una función (callback) como argumento en cada elemento del array original.
+//const multiplicarPorDos = (number) => number * 2;
 const doubledArr = numbers.map((number) => number * 2);
 const mitadArr = numbers.map((number) => number / 2);
 console.log(doubledArr);
@@ -112,7 +113,7 @@ const todosSonMayoresDeEdad = listaEdades.every(edad => edad >= 18);
 console.log(todosSonMayoresDeEdad);
 
 // Forma de hacerlo sin every
-function every() {
+/*function every() {
     for (let i = 0; i < listaEdades.length; i++) {
         const edad = listaEdades[i];
         if (edad < 18) {
@@ -123,7 +124,7 @@ function every() {
     return true;
 }
 
-console.log(every());
+console.log(every());*/
 
 
 // includes: Retorna true si encuentra un elemento que coincide con el valor que le pasamos como argumento
