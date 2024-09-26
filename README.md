@@ -70,4 +70,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 # Modulo 4
 
 - C1. 23/09/2024 repaso de DOM y metodos HTTP con ejercicios practicos en postman https://youtu.be/z3lFJhrpZoE
-- C2. 25/09/2024 repaso funcion fetch y creacion del primer proyecto con vite
+- C2. 25/09/2024 repaso funcion fetch y creacion del primer proyecto con vite https://youtu.be/1RRHQZlUqGs
