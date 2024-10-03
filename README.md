@@ -73,3 +73,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C2. 25/09/2024 repaso funcion fetch y creacion del primer proyecto con vite https://youtu.be/1RRHQZlUqGs
 - C3. 27/09/2024 comunicacion entre componentes y pasar data por props https://youtu.be/hvBcpwGvh4k
 - C4. 01/10/2024 Hooks useState y useEffect https://www.youtube.com/watch?v=GBewbR6zQAc
+- C5. 02/10/2024 Login con eventos y manejo de validacion con un formulario
+  
