@@ -74,5 +74,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C3. 27/09/2024 comunicacion entre componentes y pasar data por props https://youtu.be/hvBcpwGvh4k
 - C4. 01/10/2024 Hooks useState y useEffect https://www.youtube.com/watch?v=GBewbR6zQAc
 - C5. 02/10/2024 Login con eventos y manejo de validacion con un formulario https://youtu.be/a_uTN4sGw90
-- 
+- C6. 04/10/2024 funcion map y conceptos de la libreria router dom https://youtu.be/t8lhCISsXeE
   
