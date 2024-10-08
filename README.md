@@ -75,4 +75,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C4. 01/10/2024 Hooks useState y useEffect https://www.youtube.com/watch?v=GBewbR6zQAc
 - C5. 02/10/2024 Login con eventos y manejo de validacion con un formulario https://youtu.be/a_uTN4sGw90
 - C6. 04/10/2024 funcion map y conceptos de la libreria router dom https://youtu.be/t8lhCISsXeE
-  
+- C7. 07/10/2024 useParam y uso de las funcionalidades de react router dom https://youtu.be/8FFmHQJiHD0
