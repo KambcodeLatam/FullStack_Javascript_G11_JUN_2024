@@ -78,3 +78,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C7. 07/10/2024 useParam y uso de las funcionalidades de react router dom https://youtu.be/8FFmHQJiHD0
 - C8. 10/10/2024 Ejercicio practico Buscador https://youtu.be/WE4xJ_OjBe0
 - C9. 15/10/2024 useNavigate, useLocation y URLsearchParam https://youtu.be/Qq3SYMc-n3g
+- C10. 17/10/2024 useContext y desplegar un proyecto con vercel https://youtu.be/B1aGn2H2cDk
