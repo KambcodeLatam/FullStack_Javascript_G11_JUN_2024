@@ -79,3 +79,6 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C8. 10/10/2024 Ejercicio practico Buscador https://youtu.be/WE4xJ_OjBe0
 - C9. 15/10/2024 useNavigate, useLocation y URLsearchParam https://youtu.be/Qq3SYMc-n3g
 - C10. 17/10/2024 useContext y desplegar un proyecto con vercel https://youtu.be/B1aGn2H2cDk
+
+# modulo 5 
+- C1 28/10/2024 Repaso JS https://youtu.be/jAlZaued73Q
