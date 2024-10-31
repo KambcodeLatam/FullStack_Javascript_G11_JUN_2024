@@ -82,3 +82,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 # modulo 5 
 - C1 28/10/2024 Repaso JS https://youtu.be/jAlZaued73Q
+- C2 30/10/2024 Intro a node js https://youtu.be/uiDgyBlpRk0
