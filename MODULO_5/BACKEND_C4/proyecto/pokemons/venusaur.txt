@@ -1,0 +1,6 @@
+
+                Nombre: venusaur, 
+                Altura: 20, 
+                Peso: 1000,
+                Habilidades: overgrow, chlorophyll
+            

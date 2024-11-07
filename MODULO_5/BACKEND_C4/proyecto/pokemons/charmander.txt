@@ -1,0 +1,6 @@
+
+                Nombre: charmander, 
+                Altura: 6, 
+                Peso: 85,
+                Habilidades: blaze, solar-power
+            

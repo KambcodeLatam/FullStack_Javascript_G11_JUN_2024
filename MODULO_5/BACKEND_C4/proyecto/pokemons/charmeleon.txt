@@ -1,0 +1,6 @@
+
+                Nombre: charmeleon, 
+                Altura: 11, 
+                Peso: 190,
+                Habilidades: blaze, solar-power
+            

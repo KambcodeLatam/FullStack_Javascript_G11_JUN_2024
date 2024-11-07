@@ -1,0 +1,6 @@
+
+                Nombre: squirtle, 
+                Altura: 5, 
+                Peso: 90,
+                Habilidades: torrent, rain-dish
+            

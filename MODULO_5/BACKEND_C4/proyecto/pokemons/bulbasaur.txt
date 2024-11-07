@@ -1,0 +1,6 @@
+
+                Nombre: bulbasaur, 
+                Altura: 7, 
+                Peso: 69,
+                Habilidades: overgrow, chlorophyll
+            

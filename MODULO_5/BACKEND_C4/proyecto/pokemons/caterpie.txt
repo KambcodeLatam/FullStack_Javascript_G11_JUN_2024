@@ -1,0 +1,6 @@
+
+                Nombre: caterpie, 
+                Altura: 3, 
+                Peso: 29,
+                Habilidades: shield-dust, run-away
+            

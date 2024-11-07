@@ -1,0 +1,6 @@
+
+                Nombre: wartortle, 
+                Altura: 10, 
+                Peso: 225,
+                Habilidades: torrent, rain-dish
+            

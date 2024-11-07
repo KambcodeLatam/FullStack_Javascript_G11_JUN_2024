@@ -1,0 +1,6 @@
+
+                Nombre: charizard, 
+                Altura: 17, 
+                Peso: 905,
+                Habilidades: blaze, solar-power
+            

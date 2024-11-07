@@ -1,0 +1,6 @@
+
+                Nombre: blastoise, 
+                Altura: 16, 
+                Peso: 855,
+                Habilidades: torrent, rain-dish
+            

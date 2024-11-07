@@ -1,0 +1,6 @@
+
+                Nombre: ivysaur, 
+                Altura: 10, 
+                Peso: 130,
+                Habilidades: overgrow, chlorophyll
+            
