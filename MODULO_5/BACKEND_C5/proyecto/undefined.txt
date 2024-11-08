@@ -1,0 +1,6 @@
+
+Nombre: 29
+Apellido: -
+Edad: 3
+Email: undefined
+Cedula: undefined

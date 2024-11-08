@@ -1,0 +1,6 @@
+
+Nombre: 29
+Apellido: lopez
+Edad: correo@correo.com
+Email: 223423
+Cedula: daniel
