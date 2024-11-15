@@ -86,3 +86,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C3 05/11/2024 Async await, promises y callbacks https://youtu.be/4vArvBzOYp8
 - C4 06/11/2024 Crud de archivos https://youtu.be/PvqN-S3lLZo
 - C5 process env y argv https://youtu.be/5yEk9zxo86w
+- C6 Crear Servidor Http https://youtu.be/gFb6BKgy6mM
