@@ -1,0 +1,32 @@
+Metodo GET - URL: /libros/ - Fecha: Wed Nov 20 2024 19:58:20 GMT-0500 (Colombia Standard Time) body: {"title":"The Prophet 5","author":"Kahlil","year":1653}
+Metodo GET - URL: /libros/ecae2cdf-708c-4aa2-aad7-9ea4f825960c - Fecha: Wed Nov 20 2024 19:58:37 GMT-0500 (Colombia Standard Time) body: {"title":"The Prophet 5","author":"Kahlil","year":1653}
+Metodo PUT - URL: /libros/ecae2cdf-708c-4aa2-aad7-9ea4f825960c - Fecha: Wed Nov 20 2024 19:58:54 GMT-0500 (Colombia Standard Time) body: {"title":"The Prophet 3","author":"Kahlil","year":1653}
+Metodo GET - URL: /libros/ecae2cdf-708c-4aa2-aad7-9ea4f825960c - Fecha: Wed Nov 20 2024 19:59:00 GMT-0500 (Colombia Standard Time) body: {"title":"The Prophet 3","author":"Kahlil","year":1653}
+Metodo GET - URL: /libros - Fecha: Wed Nov 20 2024 19:59:07 GMT-0500 (Colombia Standard Time) body: {"title":"The Prophet 3","author":"Kahlil","year":1653}
+Metodo DELETE - URL: /libros/d7b712c6-c2ba-4848-920c-8672864a32df - Fecha: Wed Nov 20 2024 19:59:24 GMT-0500 (Colombia Standard Time) body: {"title":"The Prophet 3","author":"Kahlil","year":1653}
+Metodo GET - URL: /libros/d7b712c6-c2ba-4848-920c-8672864a32df - Fecha: Wed Nov 20 2024 19:59:28 GMT-0500 (Colombia Standard Time) body: {"title":"The Prophet 3","author":"Kahlil","year":1653}
+Metodo GET - URL: /libros/d7b712c6-c2ba-4848-920c-8672864a32df - Fecha: Wed Nov 20 2024 20:06:37 GMT-0500 (Colombia Standard Time) body: {"title":"The Prophet 3","author":"Kahlil","year":1653}
+Metodo POST - URL: /libros/ - Fecha: Wed Nov 20 2024 20:08:04 GMT-0500 (Colombia Standard Time) body: {"author":"Kahlil","year":1653}
+Metodo GET - URL: /libros/0f45586e-d590-48fe-985b-feed6c0f04c0 - Fecha: Wed Nov 20 2024 20:08:18 GMT-0500 (Colombia Standard Time) body: {"author":"Kahlil","year":1653}
+Metodo GET - URL: /libros/name/ - Fecha: Wed Nov 20 2024 20:08:34 GMT-0500 (Colombia Standard Time) body: {"author":"Kahlil","year":1653}
+Metodo GET - URL: /libros/ - Fecha: Wed Nov 20 2024 20:08:51 GMT-0500 (Colombia Standard Time) body: {"author":"Kahlil","year":1653}
+Metodo PUT - URL: /libros/ecae2cdf-708c-4aa2-aad7-9ea4f825960c - Fecha: Wed Nov 20 2024 20:09:17 GMT-0500 (Colombia Standard Time) body: {"author":"Kahlil 2","year":1653}
+Metodo GET - URL: /libros/ecae2cdf-708c-4aa2-aad7-9ea4f825960c - Fecha: Wed Nov 20 2024 20:09:23 GMT-0500 (Colombia Standard Time) body: {"author":"Kahlil 2","year":1653}
+Metodo POST - URL: /libros/ - Fecha: Wed Nov 20 2024 20:12:48 GMT-0500 (Colombia Standard Time) body: {"author":"Kahlil 2","year":1653}
+Metodo POST - URL: /libros/ - Fecha: Wed Nov 20 2024 20:14:22 GMT-0500 (Colombia Standard Time) body: {"author":"Kahlil 2","year":1653}
+Metodo POST - URL: /libros/ - Fecha: Wed Nov 20 2024 20:14:48 GMT-0500 (Colombia Standard Time) body: {"title":"alguien","author":"Kahlil 2","year":1653}
+Metodo GET - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:15:04 GMT-0500 (Colombia Standard Time) body: {"title":"alguien","author":"Kahlil 2","year":1653}
+Metodo PUT - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:15:28 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","year":1653}
+Metodo GET - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:15:40 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","year":1653}
+Metodo PUT - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:16:05 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","year":1653}
+Metodo PUT - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:16:37 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","year":1653}
+Metodo PUT - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:17:22 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","year":1653}
+Metodo PUT - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:17:45 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","author":"yo","year":1653}
+Metodo PUT - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:17:59 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","autor":"yo","year":1653}
+Metodo PUT - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:18:12 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","author":"yo","year":1653}
+Metodo PUT - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:33:23 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","author":"yo","year":1653}
+Metodo GET - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:34:11 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","author":"yo","year":1653}
+Metodo GET - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:39:00 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","author":"yo","year":1653}
+Metodo GET - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:39:36 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","author":"yo","year":1653}
+Metodo GET - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:39:42 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","author":"yo","year":1653}
+Metodo GET - URL: /libros/7c24347f-a336-4327-b811-a14456992d0b - Fecha: Wed Nov 20 2024 20:39:47 GMT-0500 (Colombia Standard Time) body: {"title":"alguien mas","author":"yo","year":1653}

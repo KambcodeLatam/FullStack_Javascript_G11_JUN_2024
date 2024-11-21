@@ -89,3 +89,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C6 Crear Servidor Http https://youtu.be/gFb6BKgy6mM
 - C7 Crear Servidor y crud con express https://youtu.be/K50hGwmKrrY
 - C8 repaso y organizacion del proyecto https://youtu.be/CgwhT-4_cr4
+- C9 Middlewares https://youtu.be/BgYvch4haF0
