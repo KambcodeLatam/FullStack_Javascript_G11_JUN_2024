@@ -91,3 +91,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C8 repaso y organizacion del proyecto https://youtu.be/CgwhT-4_cr4
 - C9 Middlewares https://youtu.be/BgYvch4haF0
 - C10 Open ai, integrar ia con el backend https://youtu.be/0Fi_OvPBxag
+- C11 Taller Seguridad y despliegue https://youtu.be/GdstJfgKWg8

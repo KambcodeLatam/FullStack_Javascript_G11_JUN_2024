@@ -10,7 +10,10 @@ const port = process.env.PORT;
 const baseUrl = process.env.BASE_URL;
 const apiKey = process.env.API_KEY_OPENAI
 
-
+// const generateId = (category) => {
+//     const randomNumber = Math.floor(Math.random() * 1000);
+//     return `${category}_${randomNumber}`
+// }
 
 app.post('/send-question', async (req, res) => {
     const { question, role } = req.body;
