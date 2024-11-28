@@ -6,8 +6,8 @@ const apiKey = process.env.API_KEY_OPENAI
 const secretKey = process.env.SECRET_KEY
 // crear users.json y llamarlo en vez de la variable users
 const USERS = [
-    {username: 'admin', password: 'admin'},
-    {username: 'user', password: 'user'}
+    {username: 'admin@admin.com', password: 'admin12'},
+    {username: 'user@hotmail.com', password: 'user123'}
 ]
 
 export const register = () => {
