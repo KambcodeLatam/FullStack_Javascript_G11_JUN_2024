@@ -93,3 +93,6 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C10 Open ai, integrar ia con el backend https://youtu.be/0Fi_OvPBxag
 - C11 Taller Seguridad y despliegue https://youtu.be/GdstJfgKWg8
 - C12 Integracion Backend Frontend https://youtu.be/M_cmHGE5jY0
+
+# modulo 6
+- C1 13/01/2025 Introduccion Base De datos https://youtu.be/bpIVXoXQRJY
