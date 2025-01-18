@@ -96,3 +96,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 # modulo 6
 - C1 13/01/2025 Introduccion Base De datos https://youtu.be/bpIVXoXQRJY
+- C2 17/01/2025 Relaciones  https://youtu.be/YAq79BYQ9Ag
