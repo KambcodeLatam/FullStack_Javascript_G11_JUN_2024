@@ -1,0 +1,20 @@
+DBMS -> Database Management System 
+    -- MySQL
+    -- PostgreSQL
+    -- MariaDB
+    -- Oracle
+    -- Microsoft SQL Server
+
+    SQL Structured Query Language
+
+    operaciones 
+
+    - DDL ( data definition Language) 
+        Definir el esquema de la base de datos 
+
+    - DML ( data Manipulation Language) 
+        Manipular los datos dentro de las tablas
+
+    - DCL ( data control language) 
+        - Permisos 
+
