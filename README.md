@@ -99,3 +99,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C2 17/01/2025 Relaciones  https://youtu.be/YAq79BYQ9Ag
 - C3 20/01/2025 PostgreSQL / PgAdmin  https://youtu.be/HQHTCPunaEk
 - C4 22/01/2025 SQL / SELECT  https://youtu.be/LRMQaF137is
+- C5 23/01/2025 subConsultas y Join  https://youtu.be/IrCLmSJbWKE
