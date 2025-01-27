@@ -100,3 +100,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C3 20/01/2025 PostgreSQL / PgAdmin  https://youtu.be/HQHTCPunaEk
 - C4 22/01/2025 SQL / SELECT  https://youtu.be/LRMQaF137is
 - C5 23/01/2025 subConsultas y Join  https://youtu.be/IrCLmSJbWKE
+- C6 24/01/2025 Express NodeJs https://youtu.be/hwjievVXJWI
