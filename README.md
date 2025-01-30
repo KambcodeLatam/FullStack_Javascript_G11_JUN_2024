@@ -102,3 +102,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C5 23/01/2025 subConsultas y Join  https://youtu.be/IrCLmSJbWKE
 - C6 24/01/2025 Express NodeJs https://youtu.be/hwjievVXJWI
 - C7 27/01/2025 ORM Sequelize https://youtu.be/I-fgNJEcXQo
+- C8 29/01/2025 ORM Modelos https://youtu.be/bhf8A_uhsME
