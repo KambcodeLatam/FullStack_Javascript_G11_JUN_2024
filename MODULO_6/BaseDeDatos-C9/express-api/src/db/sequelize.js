@@ -7,6 +7,9 @@ export const sequelize = new Sequelize(env.databaseDB, env.usernameDB, env.passw
     host: env.hostDB,
     dialect:  env.dialect,
     logging: env.env === 'dev',
+    dialectOptions:{
+        ssl: true,
+      }     
 });
 
 

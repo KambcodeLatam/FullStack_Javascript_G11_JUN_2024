@@ -104,3 +104,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C7 27/01/2025 ORM Sequelize https://youtu.be/I-fgNJEcXQo
 - C8 29/01/2025 ORM Modelos https://youtu.be/bhf8A_uhsME
 - C9 31/01/2025 ORM Relaciones , API CONSULTAS https://youtu.be/XR30eSR60OA
+- C10 07/02/2025 Deploy / ReactJS https://youtu.be/ZOR--bloN9E
